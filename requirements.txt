@@ -1,3 +1,0 @@
-requests
-pillow
-cx_Freeze
